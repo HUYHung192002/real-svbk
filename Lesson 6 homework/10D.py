@@ -9,3 +9,4 @@ for i in str:
         count[i] = 1
  
 print(count)
+# Bài 10: Viết chương trình đếm số lần xuất hiện các từ đơn trong một đoạn văn bản
